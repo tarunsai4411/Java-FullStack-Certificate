@@ -5,6 +5,8 @@ This repository contains my **Java Full Stack Development Certificate**.
 ## 📜 Certificate
 
 The certificate represents my completion of Java Full Stack Development training, covering both backend and frontend technologies.
+<img width="811" height="568" alt="image" src="https://github.com/user-attachments/assets/eba50bc8-e5b4-45a2-a61a-aebfd278f2ce" />
+
 
 ### Technologies Covered
 
